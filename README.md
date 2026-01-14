@@ -32,6 +32,6 @@ Project Impact
  This repository contains documentation and conceptual examples only. The complete source code remains private as per academic and intellectual property considerations. 
 
  ## Connect - LinkedIn: https://www.linkedin.com/in/ruth-waithira
-                    - Email:ruthnjeri1409@gmail.com
+                    
 
  
