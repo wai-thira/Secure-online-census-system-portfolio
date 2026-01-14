@@ -4,6 +4,7 @@ NATIONAL POPUlATION REGISTRATION SYSTEM (Academic Capstone Project )
   
 A secure, scalable online census system developed as my final-year BSc IT capstone project at Mount Kenya University. Awarded "Very Good & Impressive System" by supervising lecturer.  
 
+
    KEY FEATURES
    
 -Security-First Architecture: Implemented CIA triad with RBAC, bcrypt hashing
@@ -13,6 +14,7 @@ A secure, scalable online census system developed as my final-year BSc IT capsto
 -Real-time Validation: Client and server-side validation mechanisms
 
 -Admin Dashboard: Comprehensive data management interface  
+
 
    TECHNOLOGIES USED
    
@@ -25,6 +27,7 @@ Sanitization
 
 -Tools: XAMPP, GitHub 
 
+
    SECURITY IMPLEMENTATION
    
 -Role-Based Access Control (RBAC) Implemented user roles with granular permissions.  
@@ -35,6 +38,7 @@ Sanitization
   
 -System Architecture Built using 3-tier architecture ensuring separation of concerns.  
 
+
    PROJECT IMPACT
    
 -Demonstrated ability to translate security theory into working systems 
@@ -42,6 +46,7 @@ Sanitization
 -Solved complex demographic tracking challenges
 
 -Designed to handle national-scale data securely 
+
 
  ## Note on Code Privacy
  This repository contains documentation and conceptual examples only. The complete source code remains private as per academic and intellectual property considerations. 
